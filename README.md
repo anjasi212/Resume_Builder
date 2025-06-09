@@ -1,10 +1,10 @@
- Resume Matcher
+ Resume Builder
 
 ## Overview
-Resume Matcher is an AI-powered application that helps streamline the hiring process by matching resumes with job descriptions. It utilizes Natural Language Processing (NLP) techniques to analyze and rank resumes based on relevance, ensuring efficient candidate shortlisting.
+Resume Builder is an AI-powered application that helps streamline the hiring process by matching and building resumes with job descriptions. It utilizes Natural Language Processing (NLP) techniques to analyze and rank resumes based on relevance, ensuring efficient candidate shortlisting.
 
 ## Features
-- Automated Resume Screening– Matches resumes with job descriptions using NLP.
+- Automated Resume Screening– Build and matches resumes with job descriptions using NLP.
 - Ranking System – Scores resumes based on job relevance.
 - Skill Extraction – Identifies key skills from resumes.
 - User-Friendly Interface – Simple and intuitive interface for HR professionals.
